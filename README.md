@@ -209,19 +209,23 @@ Screenshots below confirm full connectivity.
 
 **Laptop0 → multiple networks (0% loss)**
 
-![Laptop0 Ping](verification/Laptop0_Ping.png)
+<img width="1467" height="840" alt="Laptop0 Ping" src="https://github.com/user-attachments/assets/138c30bc-7247-42b9-a176-9fba4ed39d24" />
+
 
 **Laptop1 → multiple networks (0% loss)**
 
-![Laptop1 Ping](verification/Laptop1_Ping.png)
+<img width="1467" height="844" alt="Laptop1 Ping" src="https://github.com/user-attachments/assets/fbb421fd-409b-4f6e-a345-f0719df0a7c5" />
+
 
 **PC3 → multiple networks (0% loss)**
 
-![PC3 Ping](verification/PC3_Ping.png)
+<img width="1467" height="844" alt="PC3 Ping" src="https://github.com/user-attachments/assets/97152a7f-990c-49f3-a5ce-c6f8fb17f8f0" />
+
 
 **Server0 → multiple networks**
 
-![Server0 Ping](verification/Server0_Ping.png)
+<img width="1467" height="844" alt="Server0 Ping" src="https://github.com/user-attachments/assets/19ffc5ce-dce8-45c4-b0e3-60528ff12533" />
+
 
 ---
 
