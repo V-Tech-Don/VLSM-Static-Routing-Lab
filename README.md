@@ -66,7 +66,6 @@ Point-to-point /30 links used for all inter-router connections:
 | Router3 | Gig0/1 | 192.168.1.13 | /30 | Router2 Gig0/1 |
 | Router3 | Gig0/2 | 192.168.7.113 | /29 | Switch1 LAN |
 
-Full router configs available in the [`/configs`](configs/) folder.
 
 ---
 
@@ -156,8 +155,6 @@ Point-to-point /30 links used for all inter-router connections:
 | Router3 | Gig0/1 | 192.168.1.13 | /30 | Router2 Gig0/1 |
 | Router3 | Gig0/2 | 192.168.7.113 | /29 | Switch1 LAN |
 
-Full router configs available in the [`/configs`](configs/) folder.
-
 ---
 
 ## 💻 Endpoint Device Configuration
@@ -202,7 +199,6 @@ protocols (OSPF, EIGRP, RIP) were used.
 | Router3 | 192.168.7.0 | /25 | 192.168.1.10 | R1→R0 LAN |
 | Router3 | 192.168.7.64 | /27 | 192.168.1.10 | R1 LAN |
 
-See full route tables for all routers in [`/configs`](configs/).
 
 ---
 
@@ -247,13 +243,6 @@ Screenshots below confirm full connectivity.
 - ✅ `show ip interface brief` and `show ip route` are the two most valuable troubleshooting commands
 - ✅ Endpoints without a default gateway can only reach their **local subnet**
 - ✅ In Packet Tracer, use the CLI `ip` command to set endpoint IPs — more reliable than the GUI
-
----
-
-## 📋 Documentation
-
-Full lab documentation including subnetting breakdown, static route tables, 
-cable connections and endpoint config available in [`/documentation`](documentation/).
 
 ---
 
